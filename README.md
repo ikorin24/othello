@@ -1,6 +1,7 @@
 # Othello
 
 version 0.0.1
+![demo](https://github.com/ikorin24/othello/blob/media/demo.gif)
 
 ## Requirements
 
