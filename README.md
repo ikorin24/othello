@@ -10,7 +10,9 @@ python3.x
 ## Usage
 
 ```
-./Othello                       # Start a game
+chmod +x ./othello.py     # If the script has no executable permission, do this. (only first)
+
+./othello.py                       # Start a game
 
 Input Command: [game_command]
  .
